@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalid-Bin-Hassan</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
+(https://media.licdn.com/dms/image/D5616AQFUE4WUbuv-zg/profile-displaybackgroundimage-shrink_350_1400/0/1698658648842?e=1704326400&v=beta&t=nXyWZn4i7hJH2pmWaKfs0tOvbyDcUxGT-B-Zc5dtHjA)
 <h5 align="left">Experienced Mid-Level Software Engineer with over 3 years in the industry, specializing in backend development using PHP Laravel framework and frontend technologies such as JavaScript. I am passionate about writing clean, efficient, and scalable code that not only meets high-quality standards but also optimizes performance. My expertise lies in implementing proper coding mechanisms, leveraging algorithms, and utilizing Git for version control to ensure seamless collaboration and code integrity. I've Always try to fulfill my client demand appropriately. I love to learn new techknowlogies.</h5>
 
 - 🔭 I’m currently working on [Land Revenue Case Management System](https://case.gov.bd/)
